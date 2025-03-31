@@ -1,0 +1,11 @@
+Test Set - Classification Report (HuBERT-LSTM Paper)
+              precision    recall  f1-score   support
+
+       happy       0.76      0.73      0.75        30
+         sad       0.87      0.67      0.75        30
+   surprised       0.80      0.93      0.86        30
+        calm       0.82      0.90      0.86        30
+
+    accuracy                           0.81       120
+   macro avg       0.81      0.81      0.80       120
+weighted avg       0.81      0.81      0.80       120
