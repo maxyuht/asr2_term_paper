@@ -1,0 +1,11 @@
+Test Set - Classification Report (LSTM Strong)
+              precision    recall  f1-score   support
+
+       happy       0.84      0.70      0.76        30
+         sad       0.63      0.80      0.71        30
+   surprised       0.81      0.97      0.88        30
+        calm       0.95      0.67      0.78        30
+
+    accuracy                           0.78       120
+   macro avg       0.81      0.78      0.78       120
+weighted avg       0.81      0.78      0.78       120

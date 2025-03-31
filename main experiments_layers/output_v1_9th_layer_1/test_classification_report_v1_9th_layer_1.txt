@@ -1,0 +1,11 @@
+Test Set - Classification Report
+              precision    recall  f1-score   support
+
+       happy       0.79      0.73      0.76        30
+         sad       0.74      0.83      0.78        30
+   surprised       0.78      0.83      0.81        30
+        calm       0.88      0.77      0.82        30
+
+    accuracy                           0.79       120
+   macro avg       0.80      0.79      0.79       120
+weighted avg       0.80      0.79      0.79       120
