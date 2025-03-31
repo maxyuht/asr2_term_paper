@@ -1,0 +1,11 @@
+Test Set - Classification Report
+              precision    recall  f1-score   support
+
+       happy       0.93      0.93      0.93        15
+         sad       1.00      1.00      1.00        15
+       angry       0.93      0.93      0.93        14
+     neutral       1.00      1.00      1.00        15
+
+    accuracy                           0.97        59
+   macro avg       0.97      0.97      0.97        59
+weighted avg       0.97      0.97      0.97        59

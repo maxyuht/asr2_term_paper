@@ -1,0 +1,11 @@
+Validation Set - Classification Report
+              precision    recall  f1-score   support
+
+       happy       0.88      0.97      0.93        39
+         sad       0.95      0.95      0.95        41
+       angry       1.00      0.97      0.99        40
+     neutral       1.00      0.84      0.91        19
+
+    accuracy                           0.95       139
+   macro avg       0.96      0.94      0.94       139
+weighted avg       0.95      0.95      0.95       139
